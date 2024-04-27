@@ -1,0 +1,10 @@
+{
+    "folder_structure": {
+      "fhv_tripdata": "fhv_tripdata",
+      "fhvhv_tripdata": "fhvhv_tripdata",
+      "green_tripdata": "green_tripdata",
+      "yellow_tripdata": "yellow_tripdata",
+      "data_dictionary_trip": "data_dictionary"
+    }
+  }
+  
